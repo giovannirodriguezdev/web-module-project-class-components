@@ -9,7 +9,6 @@ const root = createRoot(domNode)
 
 root.render(
   <>
-    <h1>Todo App</h1>
     <App />
   </>
 )
